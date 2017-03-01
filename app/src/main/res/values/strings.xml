@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MusicAppMobileDevProject</string>
+    <string name="homePage_title">Welcome to the Music Android App</string>
+    <string name="fade">fade</string>
+    <string name="stop">stop</string>
+    <string name="play">play</string>
+    <string name="pause">pause</string>
+    <string name="MusicPlayer_title">Click Play to Start Playing Music</string>
+    <string name="camera_title">Record Videos of Gigs that you attend to show friends later</string>
+    <string name="video">Video</string>
+</resources>
